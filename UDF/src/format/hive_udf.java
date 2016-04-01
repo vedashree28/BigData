@@ -1,0 +1,15 @@
+import org.apache.hadoop.hive.ql.exec.UDF;
+import org.apache.hadoop.io.Text;
+
+public class hive_udf extends UDF
+{	
+	public Text evaluate(String in)
+	{
+		String modified = "";
+		if(in == null)
+			return null;
+		if(in.contains(","))
+			modified = in.replace(",", "|");
+		return new Text(new StringBuilder(String.valueOf(modified)).toString());
+	}
+}

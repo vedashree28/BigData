@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Vedashree/Desktop/All/BigData/PracticalSession1 (1)/ExternalJar/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vedashree/Desktop/All/BigData/PracticalSession1 (1)/ExternalJar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vedashree/Desktop/All/BigData/PracticalSession1 (1)/ExternalJar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vedashree/Desktop/All/BigData/PracticalSession1 (1)/ExternalJar/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vedashree/Desktop/All/BigData/PracticalSession1 (1)/ExternalJar/hadoop-common-2.6.0.jar" sourcepath="C:/Users/Vedashree/Desktop/All/BigData/PracticalSession1 (1)/ExternalJar/hadoop-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vedashree/Desktop/All/BigData/PracticalSession1 (1)/ExternalJar/hadoop-mapreduce-client-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/hadoop-2.6.0/share/hadoop/mapreduce/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/hadoop-2.6.0/share/hadoop/mapreduce/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/hadoop-2.6.0/share/hadoop/mapreduce/lib/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vedashree/Desktop/All/BigData/PracticalSession1 (1)/ExternalJar/commons-configuration-1.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
